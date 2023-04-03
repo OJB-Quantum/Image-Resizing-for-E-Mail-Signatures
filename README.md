@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 1. https://www.pngwing.com
 
-2. Or go to remove.bg to remove background of a logo.
+2. Or go to https://www.remove.bg to remove background of a logo.
 
 3. https://imageresizer.com
 
