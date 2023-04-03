@@ -1,0 +1,6 @@
+Logo Downloader for Transparent Background (Image Resizing for Email Signatures)
+
+1. https://www.pngwing.com
+2. Or go to remove.bg to remove background of a logo.
+3. https://imageresizer.com
+4. Resize image to a height of 14 pixels >>>> download.
